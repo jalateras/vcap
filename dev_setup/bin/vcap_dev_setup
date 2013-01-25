@@ -93,7 +93,7 @@ if [ -z "$CLOUDFOUNDRY_DOMAIN" ]; then
 fi
 
 if [ -z "$VCAP_REPO_BASE" ]; then
-  VCAP_REPO_BASE=https://github.com/cloudfoundry
+  VCAP_REPO_BASE=https://github.com/jalateras
 fi
 
 if [ -z "$VCAP_REPO_BRANCH" ]; then
