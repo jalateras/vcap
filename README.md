@@ -67,7 +67,7 @@ towards the end. The entire process takes about half an hour, so just keep a
 loose eye on it.
 
      sudo apt-get install curl
-     bash < <(curl -s -k -B https://raw.github.com/cloudfoundry/vcap/master/dev_setup/bin/vcap_dev_setup)
+     bash < <(curl -s -k -B https://raw.github.com/jalateras/vcap/master/dev_setup/bin/vcap_dev_setup)
 
 NOTE: The automated setup does not auto-start the system. Once you are
 done with the setup, exit your current shell, restart a new shell and continue
